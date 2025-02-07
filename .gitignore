@@ -1,0 +1,9 @@
+/node_modules
+/.expo
+/.idea
+/.vscode
+/dist
+/.DS_Store
+.env
+android/app/build
+ios/Pods
